@@ -1,0 +1,3298 @@
+{
+    "items": [
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 5954
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025010200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7245
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025010300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7286
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025010400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6492
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025010500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6804
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025010600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9355
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025010700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 12272
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025010800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 12465
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025010900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 12785
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025011000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11672
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025011100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10132
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025011200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11858
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025011300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 12748
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025011400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 12312
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025011500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 13168
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025011600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 13290
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025011700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10998
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025011800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8891
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025011900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8550
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025012000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10815
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025012100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9882
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025012200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10000
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025012300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9803
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025012400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9742
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025012500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7076
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025012600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6992
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025012700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8930
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025012800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9292
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025012900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9124
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025013000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9338
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025013100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8905
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025020100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7580
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025020200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7344
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025020300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9017
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025020400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9858
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025020500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9383
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025020600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9309
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025020700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8930
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025020800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7473
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025020900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9549
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025021000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9962
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025021100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11633
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025021200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 12014
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025021300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11929
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025021400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10699
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025021500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9699
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025021600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9661
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025021700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11377
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025021800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 12117
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025021900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11538
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025022000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10592
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025022100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10270
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025022200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8771
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025022300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9397
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025022400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 12278
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025022500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10974
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025022600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10514
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025022700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10873
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025022800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10185
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025030100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8354
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025030200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8863
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025030300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11101
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025030400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 13549
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025030500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 16135
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025030600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 17076
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025030700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15107
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025030800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 13654
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025030900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 13972
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025031000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15506
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025031100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15627
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025031200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15450
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025031300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15338
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025031400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 14142
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025031500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 13722
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025031600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 13569
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025031700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 17804
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025031800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 14971
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025031900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15881
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025032000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15664
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025032100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 14798
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025032200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 13739
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025032300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10472
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025032400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9300
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025032500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11218
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025032600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10296
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025032700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9827
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025032800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9788
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025032900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9054
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025033000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7837
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025033100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9734
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025040100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9568
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025040200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9911
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025040300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9744
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025040400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9150
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025040500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9027
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025040600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9431
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025040700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11277
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025040800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11943
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025040900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 14128
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025041000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15471
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025041100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 12270
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025041200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9949
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025041300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10280
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025041400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 14640
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025041500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 13332
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025041600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 14486
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025041700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 17911
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025041800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15875
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025041900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15261
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025042000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15498
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025042100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15240
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025042200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 16116
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025042300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 16635
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025042400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 14933
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025042500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15530
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025042600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 14869
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025042700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 14492
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025042800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 17360
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025042900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 14324
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025043000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 13647
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025050100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11856
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025050200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11948
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025050300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 12869
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025050400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11515
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025050500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9473
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025050600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15483
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025050700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9121
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025050800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10082
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025050900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9634
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025051000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8098
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025051100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8337
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025051200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9859
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025051300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9483
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025051400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10688
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025051500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9935
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025051600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9560
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025051700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9305
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025051800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9336
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025051900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10575
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025052000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10037
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025052100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9493
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025052200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10592
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025052300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9184
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025052400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7958
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025052500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7615
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025052600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9751
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025052700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11758
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025052800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11448
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025052900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10483
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025053000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 12132
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025053100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10714
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025060100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10727
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025060200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11341
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025060300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10958
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025060400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11478
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025060500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11200
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025060600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 26878
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025060700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 17492
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025060800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9716
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025060900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11493
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025061000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11213
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025061100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15246
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025061200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11293
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025061300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10348
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025061400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10556
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025061500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8341
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025061600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8591
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025061700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10173
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025061800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10507
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025061900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10126
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025062000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9098
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025062100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7407
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025062200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7427
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025062300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8451
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025062400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8208
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025062500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8360
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025062600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8563
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025062700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8965
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025062800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6877
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025062900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7198
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025063000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9652
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025070100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9447
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025070200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11107
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025070300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9344
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025070400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8111
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025070500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7371
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025070600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7255
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025070700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9202
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025070800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11050
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025070900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11007
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025071000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10184
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025071100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11433
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025071200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8401
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025071300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7683
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025071400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9586
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025071500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8338
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025071600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8790
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025071700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9632
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025071800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9670
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025071900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8281
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025072000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8417
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025072100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11038
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025072200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10131
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025072300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9846
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025072400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9980
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025072500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9242
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025072600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7972
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025072700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8233
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025072800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9369
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025072900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 12442
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025073000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9492
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025073100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8700
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025080100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7648
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025080200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6790
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025080300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7061
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025080400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7909
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025080500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7555
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025080600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6975
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025080700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6671
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025080800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 5912
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025080900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 5125
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025081000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6028
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025081100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6062
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025081200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6362
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025081300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6763
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025081400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 5936
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025081500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8433
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025081600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8931
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025081700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 5519
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025081800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6946
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025081900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8783
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025082000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8672
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025082100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15711
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025082200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 17749
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025082300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 14612
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025082400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8874
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025082500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6177
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025082600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6404
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025082700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10925
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025082800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 13532
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025082900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6037
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025083000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 5472
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025083100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6062
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025090100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10999
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025090200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10121
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025090300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10030
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025090400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9306
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025090500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10133
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025090600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10410
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025090700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 12162
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025090800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 20344
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025090900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15517
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025091000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 14724
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025091100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15266
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025091200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 19495
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025091300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 13230
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025091400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 13804
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025091500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 13561
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025091600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15292
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025091700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 14429
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025091800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15412
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025091900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15286
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025092000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 13403
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025092100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11077
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025092200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9578
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025092300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10670
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025092400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9506
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025092500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9340
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025092600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9388
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025092700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10856
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025092800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7179
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025092900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8914
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025093000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9315
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025100100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8599
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025100200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8061
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025100300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8751
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025100400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7393
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025100500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6902
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025100600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8539
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025100700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8752
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025100800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8521
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025100900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7986
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025101000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8887
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025101100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10076
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025101200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6879
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025101300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7876
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025101400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8036
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025101500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7915
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025101600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8033
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025101700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7725
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025101800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6073
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025101900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6395
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025102000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7272
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025102100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8083
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025102200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7747
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025102300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7467
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025102400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8850
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025102500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6407
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025102600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6726
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025102700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8301
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025102800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8940
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025102900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8891
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025103000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8451
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025103100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8299
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025110100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7120
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025110200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6703
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025110300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8604
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025110400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8849
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025110500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9809
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025110600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9099
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025110700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8544
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025110800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6961
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025110900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6637
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025111000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8181
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025111100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8438
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025111200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7739
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025111300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8153
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025111400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8423
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025111500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6323
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025111600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6943
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025111700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8397
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025111800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10754
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025111900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9680
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025112000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15314
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025112100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 21850
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025112200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7718
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025112300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 5805
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025112400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7647
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025112500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7734
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025112600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8533
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025112700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7522
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025112800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7490
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025112900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 5395
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025113000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6716
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025120100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7334
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025120200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6844
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025120300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7303
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025120400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7122
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025120500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7171
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025120600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 5985
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025120700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6575
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025120800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7350
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025120900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7229
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025121000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7487
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025121100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 12026
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025121200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 7463
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025121300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 17216
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025121400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 14291
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025121500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 11605
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025121600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 8293
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025121700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 13121
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025121800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 44692
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025121900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 18840
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025122000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6304
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025122100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 5043
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025122200",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6269
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025122300",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 5878
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025122400",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 10972
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025122500",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 16392
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025122600",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9761
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025122700",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 6267
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025122800",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 14618
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025122900",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 18074
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025123000",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15443
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2025123100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 15248
+        },
+        {
+            "project": "en.wikipedia",
+            "article": "Python_(programming_language)",
+            "granularity": "daily",
+            "timestamp": "2026010100",
+            "access": "all-access",
+            "agent": "all-agents",
+            "views": 9986
+        }
+    ]
+}
